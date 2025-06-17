@@ -1,11 +1,3 @@
-I can definitely help you create a `README.md` file in that style, with the "boxes" around the code and that clean, structured layout\!
-
-The "boxes" you're referring to are **code blocks** in Markdown. They're created by enclosing code snippets with three backticks (\`\`\`). I'll also use headings and horizontal lines as you've shown.
-
-Here's the `README.md` content for your `usePopcorn` React app, formatted just like your example:
-
------
-
 # 🍿 usePopcorn - Your Personal Movie Tracker
 
 📦 A sleek and responsive React application that helps you find movies, view their details, and keep a curated list of films you've watched, complete with your personal ratings.
